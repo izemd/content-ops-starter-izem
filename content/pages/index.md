@@ -7,7 +7,7 @@ sections:
       text: Your trusted partner for business success
       color: text-dark
       type: TitleBlock
-    subtitle: Let us simplify your journey in Poland.
+    subtitle: Let us simplify your journey in Poland
     text: >+
 
       We offer personalized consulting services designed to meet your unique
