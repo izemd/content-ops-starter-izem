@@ -9,12 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Let us simplify your journey in Poland
     text: >+
-
-      We offer personalized consulting services designed to meet your unique
-      needs. Whether you’re looking to set up your business, navigate residence
-      permits, enhance your education, manage accounting, or explore real estate
-      opportunities, we’re here to help you every step of the way. Let us
-      simplify your journey in Poland.
+      We offer personalized consulting services for your business setup,
+      residence permits, education, accounting, and real estate needs
 
     actions:
       - label: Get started
