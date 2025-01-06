@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      We offer personalized consulting services designed to meet your unique
+      needs. Whether you’re looking to set up your business, navigate residence
+      permits, enhance your education, manage accounting, or explore real estate
+      opportunities, we’re here to help you every step of the way. Let us
+      simplify your journey in Poland.
+
     actions:
       - label: Get started
         altText: ''
