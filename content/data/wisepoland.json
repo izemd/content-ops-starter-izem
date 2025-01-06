@@ -2,7 +2,7 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/logo-dark.svg",
+        "url": "/images/contenful-logo.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
