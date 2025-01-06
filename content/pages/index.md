@@ -8,10 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Let us simplify your journey in Poland
-    text: >+
+    text: >
       We offer personalized consulting services for your business setup,
-      residence permits, education, accounting, and real estate needs
-
+      residence permits, education, accounting, and real estate needs.
     actions:
       - label: Get started
         altText: ''
