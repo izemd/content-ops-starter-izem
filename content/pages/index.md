@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/photo_three-people-looking-at-computer.webp
+      url: /images/Business-Growth-Consultant-details.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
